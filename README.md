@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Kevin Jacob
 
-<!--
-**programerz30/programerz30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE undergraduate at MBCET, Trivandrum, learning VLSI and FPGA based design.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Noise adaptive UART on FPGA (proof of concept, in progress)
+- Single cycle RISC V (RV32I) processor in Verilog
+- Building my RTL design foundation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Completed
+- Synopsys Sentaurus TCAD summer training IIT Roorkee EICT with a 2D nMOS simulation repo
+
+## Skills
+Verilog (learning) · Vivado · Synopsys Sentaurus TCAD (introductory) · Python · Git
+
+## Contact
+kevin.official129@gmail.com
